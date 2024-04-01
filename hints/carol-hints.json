@@ -1,0 +1,12 @@
+{
+    "level": 1,
+    "query": "As a busy {} and a {} of two, I want to spend as much time with my kids as possible during the holiday.",
+    "placeholder": [
+        ["occ"],
+        ["father", "mother"]
+    ],
+    "label": [
+        [],
+        ["Male", "Female"]
+    ]
+}

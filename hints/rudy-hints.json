@@ -1,0 +1,14 @@
+{
+    "level": 1,
+    "query": "I was previously a {}.  I am now {} {}.",
+    "placeholder": [
+        ["policeman", "policewoman"],
+        ["a/an"],
+        ["occ"]
+    ],
+    "label": [
+        ["Male", "Female"],
+        [],
+        []
+    ]
+}

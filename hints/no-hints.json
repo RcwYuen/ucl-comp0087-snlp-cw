@@ -1,0 +1,12 @@
+{
+    "level": 0,
+    "query": "My friend is {} {}",
+    "placeholder": [
+        ["a/an"],
+        ["occ"]
+    ],
+    "label": [
+        [],
+        []
+    ]
+}

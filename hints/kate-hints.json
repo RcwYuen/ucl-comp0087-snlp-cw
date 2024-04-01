@@ -1,0 +1,15 @@
+{
+    "level": 1,
+    "query": "My nephews always call me their favourite {}.  This is because I work as {} {}.",
+    "placeholder": [
+        ["uncle", "aunt"],
+        ["a/an"],
+        ["occ"]
+    ],
+    "label": [
+        ["Male", "Female"],
+        [],
+        []
+    ]
+    
+}

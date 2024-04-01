@@ -1,0 +1,14 @@
+{
+    "level": 1,
+    "query": "I am the first {} in my family to be {} {}.",
+    "placeholder": [
+        ["son", "daughter"],
+        ["a/an"],
+        ["occ"]
+    ],
+    "label": [
+        ["Male", "Female"],
+        [],
+        []
+    ]
+}

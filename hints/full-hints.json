@@ -1,0 +1,14 @@
+{
+    "level": 2,
+    "query": "{} is {} {}.",
+    "placeholder": [
+        ["He", "She"],
+        ["a/an"],
+        ["occ"]
+    ],
+    "label": [
+        ["Male", "Female"],
+        [],
+        []
+    ]
+}
