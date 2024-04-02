@@ -11,9 +11,7 @@ Our attempt is to interpret the probability of outputting male or female acronym
 of genders in Spanish when given an English prompt that has no hints, with certain
 degree of hints provided and an obvious English prompt.
 
-The code in this repository is able to extract such probabilities using the 3 models
-listed above.  Extension of our code to other models may not work due to the nature of
-LLM tokenization being context based, therefore tokens generated for the occupation in 
-Spanish and the actual generated translation may not be the same.
+> [!WARNING]
+> The code in this repository is able to extract such probabilities using the 3 models listed above.  Extension of our code to other models may not work due to the nature of LLM tokenization being context based, therefore tokens generated for the occupation in Spanish and the actual generated translation may not be the same.
 
 ---
