@@ -14,4 +14,6 @@ degree of hints provided and an obvious English prompt.
 > [!WARNING]
 > The code in this repository is able to extract such probabilities using the 3 models listed above.  Extension of our code to other models may not work due to the nature of LLM tokenization being context based, therefore tokens generated for the occupation in Spanish and the actual generated translation may not be the same.
 
+You may find the manuscript [here](manuscript.pdf)
+
 ---
